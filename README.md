@@ -17,18 +17,18 @@ There is no need for installation
 
 ## Program usage
 
-This code takes as input <file type>.
+This code takes as input <file type.>.
 
 Program usage:
 
 
 Example:
 
-<example>
+<example.>
 
 
 Output files:
 
-The program produces <output>.
+The program produces <output.>.
 
 
