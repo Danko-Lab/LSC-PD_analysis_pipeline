@@ -17,7 +17,7 @@ There is no need for installation
 
 ## Program usage
 
-This code takes as input <file type.>.
+This code takes as input <file_type.>.
 
 Program usage:
 
