@@ -3,7 +3,7 @@ Pipeline for locus-specific xlinking pull-down analysis
 
 This shell script is designed to analyze the sequencing data from a locus-specific crosslinking and pull-down experiment.
 
-Program takes a transgene sequence (in fasta format) and species genome sequence (in fasta format) and generates a combined genome and indexing.
+Program takes a transgene sequence (in fasta format) and species genome sequence (in fasta format) and generates a combined genome and index.
 Then the paired and sequencing reads (in *_R1.fastq and *_R2.fastq files) are aligned to the combined genome.
 
 A bigwig (.bw) file is generated for the alignments for easy visualization in genome browsers.
